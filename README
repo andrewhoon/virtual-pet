@@ -1,1 +1,6 @@
 This is a program to creat a virtual pet that can be feed, played with, etc.  The pet selected is a gremlin.
+The gremlin will have a little bit of randomness based on the selection picked by the user and by a random action
+taken every 5 moves (ticks).
+This game will also allow for a gamesave when the user decides to quit from the menu.  Games that end 
+in a loss (overfeeding, under watering, etc.) are not savable.
+
